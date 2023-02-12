@@ -1,73 +1,123 @@
-<mxfile host="65bd71144e">
-    <diagram id="Hp4wvWL8hNpsNjGSljE8" name="Page-1">
-        <mxGraphModel dx="1582" dy="295" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-                <mxCell id="44" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="2" target="42" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="2" value="Рощин&lt;br&gt;Михаил &lt;br&gt;Юрьевич&lt;br&gt;13.02.1988" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="160" y="380" width="160" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="3" target="42" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="3" value="Королёва&lt;br&gt;Марина&lt;br&gt;Дмитриевна&lt;br&gt;29.11.1985" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="440" y="400" width="160" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="33" style="edgeStyle=none;shape=link;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8" target="32" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="8" value="Пашкова (Рощина) Ольга Юрьевна&lt;br&gt;16.09.1985" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="-20" y="380" width="160" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="34" style="edgeStyle=none;shape=link;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="15" target="32" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="15" value="Пашкова Денис&lt;br&gt;16.09.1985" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="-520" y="400" width="280" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="16" value="Пашков Даниил Денисович&lt;br&gt;16.09.1985" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="-240" y="625" width="280" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="17" value="Пашков Александр Денисович&lt;br&gt;16.09.1985" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontColor=#000000;" parent="1" vertex="1">
-                    <mxGeometry x="-520" y="480" width="280" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="35" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="32" target="16" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="36" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="32" target="17" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="32" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-210" y="407.5" width="20" height="25" as="geometry"/>
-                </mxCell>
-                <mxCell id="42" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="390" y="427.5" width="20" height="25" as="geometry"/>
-                </mxCell>
-                <mxCell id="68" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;fontColor=#000000;endArrow=classic;endFill=1;startSize=6;endSize=6;" edge="1" parent="1" source="61" target="2">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="69" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;fontColor=#000000;endArrow=classic;endFill=1;startSize=6;endSize=6;" edge="1" parent="1" source="61" target="8">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="61" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="140" y="350" width="20" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="74" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;fontColor=#000000;endArrow=none;endFill=0;startSize=6;endSize=6;" edge="1" parent="1" source="70" target="61">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="70" value="Рощина&lt;br&gt;Елена&lt;br&gt;Анатольевна&lt;br&gt;16.12.1964" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0080;fontColor=#000000;fillColor=#FF66FF;" vertex="1" parent="1">
-                    <mxGeometry x="160" y="260" width="140" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="73" style="html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;fontColor=#000000;endArrow=none;endFill=0;startSize=6;endSize=6;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="72" target="61">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="72" value="Рощина&lt;br&gt;Елена&lt;br&gt;Анатольевна&lt;br&gt;16.12.1964" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0080;fontColor=#000000;fillColor=#FF66FF;" vertex="1" parent="1">
-                    <mxGeometry y="260" width="140" height="80" as="geometry"/>
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
+<mxfile host="app.diagrams.net" modified="2023-02-12T16:35:34.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="TBsgKvCvjbK883zzHUer" type="github">
+  <diagram id="Hp4wvWL8hNpsNjGSljE8" name="Page-1">
+    <mxGraphModel dx="1839" dy="512" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="68" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;fontColor=#000000;endArrow=none;endFill=0;startSize=6;endSize=6;" parent="1" source="61" target="ZgFAPPuoKXjU0ZQUV2lK-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;fontColor=#000000;endArrow=none;endFill=0;startSize=6;endSize=6;" parent="1" source="61" target="ZgFAPPuoKXjU0ZQUV2lK-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="61" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#330000;fillColor=#330000;" parent="1" vertex="1">
+          <mxGeometry x="155" y="335" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-104" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="70" target="61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="Рощина&lt;br&gt;Елена&lt;br&gt;Анатольевна&lt;br&gt;16.12.1963&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#330000;fontColor=#000000;fillColor=#FF66FF;" parent="1" vertex="1">
+          <mxGeometry x="180" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-105" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="72" target="61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="Рощин&lt;br&gt;Юрий&lt;br&gt;Викторович&lt;br&gt;23.09.1961" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-108" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-74" target="ZgFAPPuoKXjU0ZQUV2lK-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-74" value="Пашкова (Рощина)&lt;br&gt;Ольга&lt;br&gt;Юрьевна&lt;br&gt;16.09.1984" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#330000;fontColor=#000000;fillColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-107" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-75" value="Рощин&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Михаил&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Юрьевич&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;13.02.1988" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-76" target="ZgFAPPuoKXjU0ZQUV2lK-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-76" value="Королёва&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Марина&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Дмитриевна&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;29.11.1985" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#330000;fontColor=#000000;fillColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-77" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#330000;fillColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="435" y="445" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-109" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-80" target="ZgFAPPuoKXjU0ZQUV2lK-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-80" value="Пашков&lt;br&gt;Денис&lt;br&gt;Анатольевна&lt;br&gt;16.12.1964" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-81" value="Пашков&lt;br&gt;Даниил&lt;br&gt;Денисов&lt;br&gt;16.12.1964" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-110" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-82" target="ZgFAPPuoKXjU0ZQUV2lK-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-82" target="ZgFAPPuoKXjU0ZQUV2lK-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-82" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#330000;fillColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="455" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-83" value="Пашков&lt;br&gt;Александр&lt;br&gt;Денисов&lt;br&gt;16.12.1964" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-92" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-88" value="Рощин&lt;br&gt;Юрий&lt;br&gt;Анатольевна&lt;br&gt;16.12.1964" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-89" target="ZgFAPPuoKXjU0ZQUV2lK-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-89" value="Рощина&lt;br&gt;Елена&lt;br&gt;Анатольевна&lt;br&gt;16.12.1964" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#330000;fontColor=#000000;fillColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-90" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#330000;fillColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="455" y="235" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-96" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-97" target="ZgFAPPuoKXjU0ZQUV2lK-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-97" value="Рощин&lt;br&gt;Юрий&lt;br&gt;Анатольевна&lt;br&gt;16.12.1964" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-99" target="ZgFAPPuoKXjU0ZQUV2lK-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-99" value="Рощина&lt;br&gt;Елена&lt;br&gt;Анатольевна&lt;br&gt;16.12.1964" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#330000;fontColor=#000000;fillColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-100" target="ZgFAPPuoKXjU0ZQUV2lK-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-100" target="72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZgFAPPuoKXjU0ZQUV2lK-100" target="ZgFAPPuoKXjU0ZQUV2lK-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-100" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#330000;fillColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="215" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZgFAPPuoKXjU0ZQUV2lK-101" value="Рощин&lt;br&gt;Юрий&lt;br&gt;Анатольевна&lt;br&gt;16.12.1964 - 19.23.1998" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontColor=#000000;fillColor=#66B2FF;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>
